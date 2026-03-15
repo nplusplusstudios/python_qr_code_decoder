@@ -1,9 +1,7 @@
-# python_qr_code_decoder
-Python demo project to decode QR codes using OpenCV. Designed for educational purposes and safe experimentation with sample QR codes. Not intended for sensitive personal data.
-
 # Python QR Decoder Demo
+Python demo project to decode QR codes using OpenCV. Designed for educational purposes and safe experimentation with sample QR codes. 
+Not intended for sensitive personal data.
 
-This project demonstrates how to decode QR codes using Python and OpenCV.
 
 ## Features
 - Read and decode QR codes from images
