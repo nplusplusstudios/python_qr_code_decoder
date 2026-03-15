@@ -13,12 +13,11 @@ This project demonstrates how to decode QR codes using Python and OpenCV.
 ## Requirements
 - Python 3.x
 - OpenCV (`pip install opencv-python`)
+- Keep a bit larger or visible margin around the QR code for the script to read it properly
+python read_qr.py
 
 ## Usage
 1. Place a QR code image in the project folder (example: `demo_qr.png`)
 2. Run the script:
 ```bash
 
-## Note
-- Keep a bit larger or visible margin around the QR code for the script to read it properly
-python read_qr.py
